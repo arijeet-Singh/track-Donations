@@ -1,0 +1,21 @@
+.login__input::placeholder {
+  color: black;
+  font-weight: bold;
+}
+.head {
+  text-align: center;
+  margin: auto;
+  color: black;
+  font-size: 37px;
+  margin-bottom: 20px;
+}
+.button-su {
+  background-color: transparent;
+}
+input:focus {
+  outline: none;
+}
+hr {
+  height: 3px;
+  background-color: black;
+}

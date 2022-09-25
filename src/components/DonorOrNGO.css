@@ -1,0 +1,52 @@
+.container-don {
+  border: 3px solid white;
+  width: 80%;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: white;
+  border-radius: 10px;
+  background-image: url("table-bg.jpg");
+  background-size: 100% 110%;
+}
+
+.container10 {
+  border: 3px solid white;
+  width: 80%;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: white;
+  border-radius: 10px;
+  background-image: url("table-bg.jpg");
+  background-size: 100% 110%;
+}
+
+.option1,
+.option2 {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  width: 33%;
+  height: 40px;
+}
+.button {
+  width: 33%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  background-color: transparent;
+  height: 40px;
+}
+
+.currentAccount {
+  margin-top: 20%;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,60 @@
+.container-super {
+  border: 3px solid white;
+  width: 80%;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  background-color: white;
+  border-radius: 10px;
+  background-image: url("table-bg.jpg");
+  background-size: 100% 110%;
+}
+
+.create-campaign h1 {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.contact,
+.NGO,
+.objective,
+.waddress {
+  margin-bottom: 0.1rem;
+  font: inherit;
+  border: 0;
+  font-weight: bold;
+  background-color: transparent;
+  color: black;
+  width: 100%;
+  text-align: left;
+  padding: 0.8rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.min,
+.target {
+  margin-bottom: 0.1rem;
+  font: inherit;
+  border: 0;
+  background-color: transparent;
+  color: black;
+  text-align: left;
+  width: 240px;
+  padding: 0.8rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.min-do,
+.t-amo {
+  display: inline-block;
+  width: 50%;
+}
